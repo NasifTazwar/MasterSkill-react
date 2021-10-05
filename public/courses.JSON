@@ -1,0 +1,112 @@
+[
+    {
+      "_id": 0,
+      "name": "HTML,CSS",
+      "cost": "Free",
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--8caaw1hY--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/k5dp029baand3ni510db.jpg",
+      "duration": 10,
+      "ratings" : 4.3,
+      "reviews" : 72,
+      "tutor" : "Pelican Steve"
+    },
+    {
+      "_id": 10,
+      "name": "React",
+      "cost": 25,
+      "img": "https://images.ctfassets.net/51xdmtqw3t2p/2w0H06U9MYaJNsonXhyD3I/0cd72a4b4e01460bcd7145e984b05c38/Portada_react.jpg",
+      "duration": 80,
+      "ratings" : 4.6,
+      "reviews" : 42,
+      "tutor" : "Barry Tone"
+    },
+    {
+      "_id": 20,
+      "name": "Angular",
+      "cost": 25,
+      "img": "https://www.alvantia.com/wp-content/uploads/2018/10/imagen-Angular-2.jpg",
+      "duration": 80,
+      "ratings" : 4.9,
+      "reviews" : 35,
+      "tutor" : "Shahnewaz Sakil"
+    },
+    {
+      "_id": 30,
+      "name": "Become a Laravel Developer",
+      "cost": 30,
+      "img": "https://images.squarespace-cdn.com/content/v1/601bbee790dfe54cc132c161/1627032917440-ZUHL8IA5PYLI2YMX6OQB/Laravel+Feature+Image.png",
+      "duration": 25,
+      "ratings" : 4.3,
+      "reviews" : 150,
+      "tutor" : "Eleanor Fant"
+    },
+    {
+      "_id": 40,
+      "name": "Learn Basic Python",
+      "cost": 15,
+      "img": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/12/Python-Programming.png",
+      "duration": 15,
+      "ratings" : 4.1,
+      "reviews" : 99,
+      "tutor" : "Jim Séchen"
+    },
+    {
+      "_id": 50,
+      "name": "Advance Data Science",
+      "cost": 35,
+      "img": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+      "duration": 20,
+      "ratings" : 4.5,
+      "reviews" : 56,
+      "tutor" : "Barry Tone"
+    },
+    {
+      "_id": 60,
+      "name": "Become a MERN stack Developer",
+      "cost": 80,
+      "img": "https://www.kindpng.com/picc/m/95-956807_mern-stack-developer-hd-png-download.png",
+      "duration": 90,
+      "ratings" : 4.7,
+      "reviews" : 47,
+      "tutor" : "Pelican Steve"
+    },
+    {
+      "_id": 70,
+      "name": "Django & Flask for Backend",
+      "cost": 50,
+      "img": "https://www.shuup.com/wp-content/uploads/2017/12/python-plus-django-1.jpg",
+      "duration": 30,
+      "ratings" : 4.1,
+      "reviews" : 50,
+      "tutor" : "Elon Gated"
+    },
+    {
+      "_id": 80,
+      "name": "Machine Learning and Deep Learning",
+      "cost": 70,
+      "img": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/08/10144622/shutterstock_714415102.png",
+      "duration": 30,
+      "ratings" : 4.2,
+      "reviews" : 66,
+      "tutor" : "Shahnewaz Sakil"
+    },
+    {
+      "_id": 90,
+      "name": "Autocad Complete Mastery",
+      "cost": 50,
+      "img": "https://i.all3dp.com/cdn-cgi/image/fit=cover,w=675,h=675,gravity=0.5x0.5,format=auto/wp-content/uploads/2020/09/07142335/autocad-has-always-been-the-industry-standard-for-autodesk-200827.jpg",
+      "duration": 20,
+      "ratings" : 4.9,
+      "reviews" : 77,
+      "tutor" : "Eleanor Fant"
+    },
+    {
+      "_id": 100,
+      "name": "Be Creative with UI/UX Design",
+      "cost": 45,
+      "img": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149024128.jpg",
+      "duration": 30,
+      "ratings" : 5,
+      "reviews" : 88,
+      "tutor" : "Pelican Steve"
+    }
+  ]
